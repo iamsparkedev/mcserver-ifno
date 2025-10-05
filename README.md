@@ -1,4 +1,4 @@
-##          PROJECT NAME
+##          MCserver-Info
 
 ![Contributors](https://img.shields.io/github/contributors/iamsparkedev/REPO)
 ![Forks](https://img.shields.io/github/forks/iamsparkedev/REPO?style=social)
