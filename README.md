@@ -1,14 +1,19 @@
-##          MCserver-Info
+##     :globe_with_meridians:  MCserver-Info
+   Web API For Getting Data About Any Minecraft Server
 
-![Contributors](https://img.shields.io/github/contributors/iamsparkedev/REPO)
-![Forks](https://img.shields.io/github/forks/iamsparkedev/REPO?style=social)
-![Stars](https://img.shields.io/github/stars/iamsparkedev/REPO?style=social)
-![Issues](https://img.shields.io/github/issues/imsparkedev/REPO)
-![License](https://img.shields.io/github/license/iamsparkedev/REPO)
+![Contributors](https://img.shields.io/github/contributors/iamsparkedev/mcserver-info)
+![Forks](https://img.shields.io/github/forks/iamsparkedev/mcserver-info?style=social)
+![Stars](https://img.shields.io/github/stars/iamsparkedev/mcserver-info?style=social)
+![Issues](https://img.shields.io/github/issues/imsparkedev/mcserver-info)
+![License](https://img.shields.io/github/license/iamsparkedev/mcserver-info)
+-----
 [![Discord](https://discordapp.com/api/guilds/1418891584732266669/widget.png?style=banner2)](https://discord.gg/UgQHxrCk2z)
 
+> [!CAUTION]
+>
+> This Project Is Under Development
 
 
 ## BUILT WITH
-![Custom Badge](https://img.shields.io/badge/PLACEHOlDER%20example%201-blue)
-![Custom Badge](https://img.shields.io/badge/PLACEHOLDER%20example%202-white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
