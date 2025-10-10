@@ -1,5 +1,5 @@
 ##     :globe_with_meridians:  MCserver-Info
-   Web API For Getting Data About Any Minecraft Server
+  A lightweight API service built in **Go** to fetch real-time information about any Minecraft server — including version, player count, MOTD, and online status.
 
 ![Contributors](https://img.shields.io/github/contributors/iamsparkedev/mcserver-info)
 ![Forks](https://img.shields.io/github/forks/iamsparkedev/mcserver-info?style=social)
@@ -12,7 +12,10 @@
 > [!CAUTION]
 >
 > This Project Is Under Development
-.
+
+### ▶️ Run locally
+
+Clone the repository and run the server:
 
 ## BUILT WITH
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
