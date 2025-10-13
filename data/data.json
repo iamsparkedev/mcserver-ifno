@@ -1,0 +1,114 @@
+[
+  {
+    "server_id": "1",
+    "name": "Complex Gaming",
+    "ip_address": "bee.mc-complex.com",
+    "gamemodes": [
+      "Pixelmon",
+      "Skyblock",
+      "Survival",
+      "Factions",
+      "Creative",
+      "Prison"
+    ],
+    "description": "A top-ranked network with a wide variety of game modes, especially known for its large Pixelmon server."
+  },
+  {
+    "server_id": "2",
+    "name": "OPBlocks Network",
+    "ip_address": "buzz.opblocks.com",
+    "gamemodes": [
+      "Prison",
+      "Skyblock",
+      "Survival SMP",
+      "Pixelmon",
+      "Cobblemon"
+    ],
+    "description": "A high-quality server network featuring unique Prison, Skyblock, and Pixelmon content."
+  },
+  {
+    "server_id": "3",
+    "name": "Hypixel Network",
+    "ip_address": "mc.hypixel.net",
+    "gamemodes": [
+      "Bedwars",
+      "SkyWars",
+      "SkyBlock",
+      "Murder Mystery",
+      "Minigames"
+    ],
+    "description": "One of the largest and most famous Minecraft servers, offering a massive selection of original minigames."
+  },
+  {
+    "server_id": "4",
+    "name": "WildWood SMP",
+    "ip_address": "join.wildwoodsmp.com",
+    "gamemodes": ["Lifesteal SMP", "Survival"],
+    "description": "A new SMP-based server focused on Lifesteal and Survival gameplay with a growing community."
+  },
+  {
+    "server_id": "5",
+    "name": "ManaCube",
+    "ip_address": "buzz.manacube.com",
+    "gamemodes": [
+      "Parkour",
+      "Skyblock",
+      "SMP",
+      "KitPvP",
+      "Lifesteal",
+      "Prison",
+      "Creative"
+    ],
+    "description": "An established server with unique game modes like a Greek mythology RPG and over 2500 parkour maps."
+  },
+  {
+    "server_id": "6",
+    "name": "BlossomCraft",
+    "ip_address": "buzz.blossomcraft.org",
+    "gamemodes": ["Economy", "SMP", "Survival"],
+    "description": "A laid-back, community-focused SMP server with an economy, no griefing, and a supportive staff."
+  },
+  {
+    "server_id": "7",
+    "name": "PikaNetwork",
+    "ip_address": "play.pika-network.net",
+    "gamemodes": [
+      "Bedwars",
+      "Skywars",
+      "Skyblock",
+      "Prison",
+      "Factions",
+      "Minigames"
+    ],
+    "description": "A rapidly growing server network that offers a range of popular competitive and survival game modes."
+  },
+  {
+    "server_id": "8",
+    "name": "ExtremeCraft",
+    "ip_address": "Extremecraft.net",
+    "gamemodes": ["Skyblock", "Towny", "Prison", "PvP", "Factions", "McMMO"],
+    "description": "An established network offering a variety of thrilling game modes and a strong, long-standing community."
+  },
+  {
+    "server_id": "9",
+    "name": "Netherite",
+    "ip_address": "portal.netherite.gg",
+    "gamemodes": ["Lifesteal", "Survival", "Factions", "Prison", "Skyblock"],
+    "description": "A unique network focused on Lifesteal, Survival, and Skyblock, striving to deliver an enjoyable gaming experience."
+  },
+  {
+    "server_id": "10",
+    "name": "Advancius Network",
+    "ip_address": "mc.advancius.net",
+    "gamemodes": [
+      "Earth Towny SMP",
+      "Prison",
+      "Skyblock",
+      "Survival",
+      "Creative",
+      "Parkour",
+      "KitPvP"
+    ],
+    "description": "A server known for its large number of free ranks and over 20 unique, non-pay-to-win game modes."
+  }
+]
