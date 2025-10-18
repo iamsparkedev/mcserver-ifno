@@ -51,8 +51,8 @@ Output : ``` {
     "description": "One of the largest and most famous Minecraft servers, offering a massive selection of original minigames."
 } ```
 
-### Add More Servers
-You can add more server in `./data/data.json`
+### 
+
 ## BUILT WITH
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
