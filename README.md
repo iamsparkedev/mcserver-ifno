@@ -4,7 +4,6 @@
 ![Contributors](https://img.shields.io/github/contributors/iamsparkedev/mcserver-info)
 ![Forks](https://img.shields.io/github/forks/iamsparkedev/mcserver-info?style=social)
 ![Stars](https://img.shields.io/github/stars/iamsparkedev/mcserver-info?style=social)
-![Issues](https://img.shields.io/github/issues/imsparkedev/mcserver-info)
 ![License](https://img.shields.io/github/license/iamsparkedev/mcserver-info)
 -----
 [![Discord](https://discordapp.com/api/guilds/1418891584732266669/widget.png?style=banner2)](https://discord.gg/UgQHxrCk2z)
