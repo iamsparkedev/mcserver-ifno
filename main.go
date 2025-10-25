@@ -12,7 +12,7 @@ import (
 func main() {
 	
 	http.HandleFunc("/api/server", handlers.ServerInfoHandler) // http://localhost:8080/api/server?ip=host:port
-	http.HandleFunc("/api/list", handlers.ServerListHandler)
+	http.HandleFunc("/api/list", handlers.ServerListHandler)// http://localhost:8080/api/list?id=1
 	
 	port := os.Getenv("PORT")
 	if port == "" {
