@@ -9,6 +9,8 @@ import (
 	"mcserver/handlers"
 )
 
+
+
 func main() {
 	
 	http.HandleFunc("/api/server", handlers.ServerInfoHandler) // http://localhost:8080/api/server?ip=host:port
