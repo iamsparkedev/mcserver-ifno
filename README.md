@@ -28,7 +28,7 @@ Output :``` {
         "online": 28074,
         "max": 200000
     },
-    "motd": "                §aHypixel Network §c[1.8/1.21]\n           §d§lSB 0.23.5 §7- §6§lHALLOWEEN EVENT"
+    "motd": "           §aHypixel Network §c[1.8/1.21]\n           §d§lSB 0.23.5 §7- §6§lHALLOWEEN EVENT"
 } ```
 
 ### Server List
